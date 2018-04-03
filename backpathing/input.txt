@@ -1,0 +1,17 @@
+{
+int m[5][10],x,c,d,e,f,i;
+while(m>x)
+{
+while(x<c&&f>d)
+{
+if(m!=x)
+{
+d=c;
+}
+else
+{
+m[i][x]=f;
+}
+}
+}
+}
